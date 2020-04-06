@@ -1,0 +1,16 @@
+{
+    "name": "adapt-question-bank",
+    "framework": ">=5",
+    "version": "1.0.0",
+    "issues": "",
+    "displayName": "Audio-Question-Bank",
+    "extension": "adapt-question-bank",
+    "description": "An extension which provides basic audio playback capability",
+    "main": "/js/adapt-question-bank.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPLv3",
+    "targetAttribute": "_questionBank"
+}
